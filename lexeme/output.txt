@@ -1,0 +1,6 @@
+IDENTIFIER: x
+Operator: =
+Literals: 10
+Operator: +
+IDENTIFIER: y2
+Unknown char: @

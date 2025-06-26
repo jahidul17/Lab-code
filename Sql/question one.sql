@@ -1,0 +1,1 @@
+SELECT * FROM diu.lab_three_table_1 WHERE dept_id = 500 AND salary > 50000;
